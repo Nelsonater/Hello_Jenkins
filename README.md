@@ -1,3 +1,4 @@
+[![Build Status](http://localhost:8090/job/HelloJenkins/badge/icon)](http://localhost:8090/job/HelloJenkins/)
 Alex Nelson
 ##Hello_Jenkins <img align="right" src="img/liatrio.png">
 This simple exercise is designed to introduce you to Jenkins and continuous
